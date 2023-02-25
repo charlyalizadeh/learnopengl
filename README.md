@@ -3,10 +3,10 @@
 Repository to store my version of the exercices proposed on the [learnopengl website](https://learnopengl.com/).
 
 - [ ] Getting started
-    - [x] [Hello Triangle](./src/HelloTriangle/) ([lesson](https://learnopengl.com/Getting-started/Hello-Window))
-        - [x] [Ex. 1](./src/HelloTriangle/ex1.cpp)
-        - [x] [Ex. 2](./src/HelloTriangle/ex2.cpp)
-        - [x] [Ex. 3](./src/HelloTriangle/ex3.cpp)
+    - [x] [Hello Triangle](./src/GettingStarted/HelloTriangle/) ([lesson](https://learnopengl.com/Getting-started/Hello-Window))
+        - [x] [Ex. 1](./src/GettingStarted/HelloTriangle/ex1.cpp)
+        - [x] [Ex. 2](./src/GettingStarted/HelloTriangle/ex2.cpp)
+        - [x] [Ex. 3](./src/GettingStarted/HelloTriangle/ex3.cpp)
     - [ ] Shaders
         - [ ] Ex. 1
         - [ ] Ex. 2
